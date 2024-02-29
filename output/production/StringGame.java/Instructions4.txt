@@ -1,0 +1,10 @@
+Two-way hangman
+Pick a category. 
+Both you and the computer pick a word in that category. 
+You will imput your word replacing all letters with dashes (ex. "apple" becomes "-----"). 
+The computer will do the same. 
+You will guess a letter. 
+The computer will display whether it is correct or incorrect and display the word in its current state.
+Then the computer will guess a letter.
+You will say whether or not it is correct, and the updated word.
+The first to guess the other's word wins!

@@ -1,0 +1,4 @@
+Picnic
+The computer will pick a random letter. 
+It will then pick words containing that letter and display them one at a time. 
+You must guess the letter by observing the pattern.

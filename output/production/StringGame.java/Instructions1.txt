@@ -1,0 +1,5 @@
+Concentration
+Pick a category. 
+You must enter a word in that category before the time limit runs out. 
+You and the computer will alternate turns to choose words. 
+No repeats or hesitation!

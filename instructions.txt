@@ -1,0 +1,55 @@
+Games:
+Concentration
+- pick category
+- time limit
+- must enter word in category
+- computer & player alternate turns
+- player must not repeat words, exceed time limit, or go out of category
+
+- display:
+  - score of computer, player
+  - # words left
+  - turn?
+  - computer, player's word
+
+Categories
+- list words starting w/ alphabetical order
+ - pick category
+ - player & computer alternate
+
+- display:
+  - words
+  - # words left
+  - scores
+
+- list words starting w/ last letter of last
+ - pick category
+ - player & computer alternate
+
+- display:
+  - words
+  - # words left
+  - scores
+
+Picnic C
+- pick random letter
+- pick words containing letter
+- display one at a time
+- user must guess letter
+
+- display:
+  - words
+  - get guess
+   - incorrect/correct
+
+Two-way hangman
+- player picks category
+- both player and computer pick word in category
+- both say length w/ dash
+- player guesses letter
+- displays incorrect/correct
+- displays current word
+- computer guesses letter
+- player inputs y/n
+- player inputs new word w/ dashes
+- first to guess word wins

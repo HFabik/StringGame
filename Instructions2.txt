@@ -1,0 +1,13 @@
+Categories
+Mode 1:
+Pick a category. 
+You must list words alternating with the computer without repetition.
+The words must start with the next letter in the alphabet. 
+Example: Apple, Banana, Cherries, Dates, Elderberry, etc.
+If there are no words starting with that letter, use the next available letter.
+Mode 2:
+Pick a category. 
+You must list words alternating with the computer without repetition. 
+The words must start with the last letter of last word. 
+Example: Apple, Elderberry, Yellow Passion Fruit, Tomato, etc.
+If there are no words starting with that letter, use the next available letter.
